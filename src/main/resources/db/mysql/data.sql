@@ -46,6 +46,9 @@ INSERT IGNORE INTO pets VALUES (10, 'Mulligan', '1997-02-24', 2, 8);
 INSERT IGNORE INTO pets VALUES (11, 'Freddy', '2000-03-09', 5, 9);
 INSERT IGNORE INTO pets VALUES (12, 'Lucky', '2000-06-24', 2, 10);
 INSERT IGNORE INTO pets VALUES (13, 'Sly', '2002-06-08', 1, 10);
+INSERT INTO pets VALUES (14, 'Jolly Jumper', '2012-09-20', 7, 5;
+INSERT INTO pets VALUES (15, 'Flycka', '2012-07-14', 7, 9);
+
 
 INSERT IGNORE INTO visits VALUES (1, 7, '2010-03-04', 'rabies shot');
 INSERT IGNORE INTO visits VALUES (2, 8, '2011-03-04', 'rabies shot');
